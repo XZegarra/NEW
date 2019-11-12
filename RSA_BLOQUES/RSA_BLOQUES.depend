@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1573588772 source:c:\presentacion abstracta\rsa_bloques\main.cpp
+	<iostream>
+	<NTL/ZZ.h>
+	<vector>
+	"RSAB.h"
+	<time.h>
+	<iomanip>
+
+1573590259 c:\presentacion abstracta\rsa_bloques\include\rsab.h
+	<NTL/ZZ.h>
+	<vector>
+	<string>
+	<fstream>
+	<time.h>
+	<stdlib.h>
+	<sstream>
+

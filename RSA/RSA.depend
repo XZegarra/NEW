@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1573589585 source:c:\presentacion abstracta\rsa\main.cpp
+	<iostream>
+	<RSA.h>
+
+1573589706 source:c:\presentacion abstracta\rsa\src\rsa.cpp
+	"RSA.h"
+	<vector>
+	<string>
+	<fstream>
+	<time.h>
+	<stdlib.h>
+
+1573589585 c:\presentacion abstracta\rsa\include\rsa.h
+	<NTL/ZZ.h>
+	<vector>
+	<string>
+	<fstream>
+	<time.h>
+	<sstream>
+	<stdlib.h>
+
